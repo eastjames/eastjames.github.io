@@ -21,7 +21,8 @@
             {%- endif -%}
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
           {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+            <!-- <abbr class="badge">{{entry.abbr}}</abbr> -->
+            <b>{{entry.abbr}}</b>
           {%- endif -%}
         {%- endif -%}
         </div>
@@ -131,6 +132,11 @@
         </div>
         <div class="periodical">
           {{ entry.note | strip }}
+        </div>
+
+        <!-- URL -->
+        <div> 
+        <a href="{{entry.url}}">{{entry.url}}</a>
         </div>
 
           <!-- Links/Buttons -->
