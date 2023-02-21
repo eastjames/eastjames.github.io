@@ -17,7 +17,7 @@ keywords: #jekyll, jekyll-theme, academic-website, portfolio-website  # add your
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: '' # ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://eastjamesd.github.io # the base hostname & protocol for your site
+url: https://eastjames.github.io # the base hostname & protocol for your site
 baseurl: 
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -158,10 +158,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false #true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false #true
     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -232,17 +232,17 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: #[year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
+    year: #archive-year
+    tag: #archive-tag
+    category: #archive-category
   permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    year: #'/blog/:year/'
+    tag: #'/blog/tag/:name/'
+    category: #'/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: #['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
