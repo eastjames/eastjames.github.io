@@ -23,7 +23,7 @@ I use satellite data and computer models of the Earth's atmosphere to understand
 
 Currently, I am a Postdoctoral Fellow in the [Atmospheric Chemistry Modeling Group](https://acmg.seas.harvard.edu) led by Professor Daniel J. Jacob in the School of Engineering and Applied Sciences at Harvard University.
 
-I completed my doctoral research under [Professor Fernando Garcia Menendez](https://fgarciam.wordpress.ncsu.edu) in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. My graduate research was supported by an ORISE Fellowship at the U.S. Environmental Protection Agency, where I was mentored by Dr. Barron H. Henderson.
+I completed my doctoral research under [Professor Fernando Garcia Menendez](https://fgarciam.wordpress.ncsu.edu) in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. My graduate research was supported by an ORISE Fellowship at the U.S. Environmental Protection Agency, where I was mentored by [Dr. Barron H. Henderson](https://www.barronh.com).
 
 Follow my research at [Google Scholar](https://scholar.google.com/citations?user=L1NLrxoAAAAJ) and [ORCiD](https://orcid.org/0000-0001-7199-6229). Code for some of my work is on my [Github](https://github.com/eastjames). 
 
