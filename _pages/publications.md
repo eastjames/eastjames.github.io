@@ -9,6 +9,20 @@ nav: true
 nav_order: 1
 ---
 [Google Scholar profile](https://scholar.google.com/citations?user=L1NLrxoAAAAJ)
+
+### **Submitted**
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{%- for y in page.years1 %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f preprints -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
+
+
+
 ### **Peer-reviewed**
 <!-- _pages/publications.md -->
 <div class="publications">
