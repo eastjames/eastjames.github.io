@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I use satellite data and computer models of the Earth's atmosphere to understand emissions of chemicals to the air and the subsequent impacts on air quality and climate.
+I am an environmental engineer and atmospheric scientist. My research uncovers drivers of change in the local to global atmospheric environment, using satellite observations of air pollutants and greenhouse gases, models of atmospheric chemistry, and inverse modeling.
 
-Currently, I am a Postdoctoral Fellow in the [Atmospheric Chemistry Modeling Group](https://acmg.seas.harvard.edu) led by Professor Daniel J. Jacob in the School of Engineering and Applied Sciences at Harvard University.
+I am a Postdoctoral Fellow in the [Atmospheric Chemistry Modeling Group](https://acmg.seas.harvard.edu) led by Professor Daniel J. Jacob in the School of Engineering and Applied Sciences at Harvard University.
 
 I completed my doctoral research under [Professor Fernando Garcia Menendez](https://fgarciam.wordpress.ncsu.edu) in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. My graduate research was supported by an ORISE Fellowship at the U.S. Environmental Protection Agency, where I was mentored by Dr. Sergey Napelenok and [Dr. Barron H. Henderson](https://www.barronh.com).
 
