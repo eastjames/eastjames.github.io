@@ -253,16 +253,16 @@ display_tags: #['formatting', 'images', 'links', 'math', 'code'] # this tags wil
 
 scholar:
 
-  last_name: [East]
-  first_name: [James]
+  last_name: East
+  first_name: JD
 
   style: apa
   locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
-  # bibliography_template: bib
-  bibliography_template: "{{ bib | replace_first: 'East, JD', '<b>East, JD</b>' }}"
+  bibliography_template: bib
+  # bibliography_template: "{{ bib | replace_first: 'East, JD', '<b>East, JD</b>' }}"
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
