@@ -9,7 +9,7 @@ years2: [2020, 2019] #[1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
 ---
-*Updated November 2025*  
+*Updated December 2025*  
 [Google Scholar profile](https://scholar.google.com/citations?user=L1NLrxoAAAAJ)
 
 
