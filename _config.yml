@@ -161,7 +161,7 @@ collections:
     output: false #true
     permalink: /news/:path/
   projects:
-    output: false #true
+    output: true
     permalink: /projects/:path/
   researchdata:
     output: true
