@@ -9,7 +9,7 @@ display_categories: #[work, fun]
 horizontal: false
 ---
 # **Methane inverse modeling**
-<div class="row justify-content-sm-left"> <div class="col-sm-5 mt-3 mt-md-0"> {% include figure.html path="assets/img/methane.png" title="methane" class="img-fluid" %} </div></div>
+<div class="row justify-content-sm-left"> <div class="col-sm-5 mt-3 mt-md-0"> {% include figure.html path="assets/img/methane.png" title="Methane emissions from the top 15 countries (East et al. 2025)" class="img-fluid" %} </div></div>
 *Figure: East et al., 2025, Nat. Comm., Figure 3*  
 
 
@@ -37,7 +37,7 @@ Media: ["Ozone: An unseen health threat makes a comeback with climate change" (A
 
 
 # **Satellite chemical data assimilation**
-<div class="row justify-content-sm-left"> <div class="col-sm-10 mt-3 mt-md-0"> {% include figure.html path="assets/pdf/East2022ACPfig1.pdf" title="3DVAR" class="img-fluid" %} </div></div>
+<div class="row justify-content-sm-left"> <div class="col-sm-10 mt-3 mt-md-0"> {% include figure.html path="assets/pdf/East2022ACPfig1.pdf" title="Chemical data assimilation and NOx emissions inversion framework" class="img-fluid" %} </div></div>
 *East et al., 2022, ACP, Figure 1*  
 
 I developed and applied an inverse modeling framework that uses satellite observations of NO<sub>2</sub>, an air pollutant that can be viewed from space using sunlight reflected off Earth's surface, to estimate emissions of NO<sub>X</sub>, a related air pollutant. The framework uses 3D-variational satellite chemical data assimilation to update model simulations of air pollution to match observations. This is commonly used in weather forecasting to help models better match the real world; here, I'm applying it to atmospheric chemistry! I used the framework to estimate 2019 NO<sub>X</sub> emissions from around the Northern Hemisphere, and found that my emissions estimates help the model better reproduce concentrations of NO<sub>2</sub> and O<sub>3</sub> observed in the real world.
@@ -47,7 +47,7 @@ Relevant publications: [East et al. 2022 *Atmos. Chem. Phys.*](https://doi.org/1
 
 # **Air quality modeling in Latin America**
 <div class="row justify-content-sm-left"> <div class="col-sm-10 mt-3 mt-md-0"> {% include figure.html path="assets/img/bogota_jde.jpeg" title="Air pollution in Bogota, Colombia" class="img-fluid" %} </div></div>
-**A photo I took of air pollution in the morning inversion layer over Bogotá during a research visit.**  
+*Air pollution in the morning inversion layer over Bogotá during a research visit.*  
 
 Poor air quality disproportionally impacts cities in low- and middle-income countries. In Bogotá, Colombia, a metropolitan area with over 10 million inhabitants, PM<sub>2.5</sub> levels regularly exceed air quality guidelines, harming human health. Although there is public interest to improve the city's air quality, the main sources of PM<sub>2.5</sub> weren't well understood. I used a modeling framework based on EPA's CMAQ model (a 3-D model of atmospheric chemistry and transport), to simulate urban air quality in Bogotá and reveal major emissions soures. We found that resuspended dust from unpaved roads is the largest local source of PM<sub>2.5</sub> and can contribute over 30% of the pollution across the city, and that paving roads can lead to PM<sub>2.5</sub> decreases of nearly 10 μg/m3 (that's a lot!) by 2030. This study was the first to use a comprehensive model to determine sector contributions to air pollution in Bogotá, and it demonstrated an approach to guide pollution management in developing cities facing comparable challenges.
 
