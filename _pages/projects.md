@@ -42,7 +42,7 @@ Media: ["Ozone: An unseen health threat makes a comeback with climate change" (A
 
 I developed and applied an inverse modeling framework that uses satellite observations of NO<sub>2</sub>, an air pollutant that can be viewed from space using sunlight reflected off Earth's surface, to estimate emissions of NO<sub>X</sub>, a related air pollutant. The framework uses 3D-variational satellite chemical data assimilation to update model simulations of air pollution to match observations. This is commonly used in weather forecasting to help models better match the real world; here, I'm applying it to atmospheric chemistry! I used the framework to estimate 2019 NO<sub>X</sub> emissions from around the Northern Hemisphere, and found that my emissions estimates help the model better reproduce concentrations of NO<sub>2</sub> and O<sub>3</sub> observed in the real world.
 
-Relevant publications: [East et al. 2022 *Atmos. Chem. Phys.*](https://doi.org/10.5194/acp-22-15981-2022)
+**Relevant publications:** [East et al. 2022 *Atmos. Chem. Phys.*](https://doi.org/10.5194/acp-22-15981-2022)
 
 
 # **Air quality modeling in Latin America**
@@ -51,7 +51,7 @@ Relevant publications: [East et al. 2022 *Atmos. Chem. Phys.*](https://doi.org/1
 
 Poor air quality disproportionally impacts cities in low- and middle-income countries. In Bogotá, Colombia, a metropolitan area with over 10 million inhabitants, PM<sub>2.5</sub> levels regularly exceed air quality guidelines, harming human health. Although there is public interest to improve the city's air quality, the main sources of PM<sub>2.5</sub> weren't well understood. I used a modeling framework based on EPA's CMAQ model (a 3-D model of atmospheric chemistry and transport), to simulate urban air quality in Bogotá and reveal major emissions soures. We found that resuspended dust from unpaved roads is the largest local source of PM<sub>2.5</sub> and can contribute over 30% of the pollution across the city, and that paving roads can lead to PM<sub>2.5</sub> decreases of nearly 10 μg/m3 (that's a lot!) by 2030. This study was the first to use a comprehensive model to determine sector contributions to air pollution in Bogotá, and it demonstrated an approach to guide pollution management in developing cities facing comparable challenges.
 
-Relevant publications: [East et al. 2021 *Sci. Total Environ.*](https://doi.org/10.1016/j.scitotenv.2021.145894)  
+**Relevant publications:** [East et al. 2021 *Sci. Total Environ.*](https://doi.org/10.1016/j.scitotenv.2021.145894)  
 
 Media: ["Researchers Use Air Quality Models to Reflect Polluted Reality in Latin America" (NC State News)](https://news.ncsu.edu/2021/03/air-models-latin-america/) 
 
