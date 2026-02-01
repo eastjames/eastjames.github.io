@@ -15,18 +15,6 @@ nav_order: 1
 \* = *submitted*
 
 
-<!-- ### **Submitted** -->
-<!-- _pages/publications.md -->
-<!-- <div class="publications"> -->
-
-<!-- {%- for y in page.years0 %}
-<!--   <h2 class="year">{{y}}</h2> -->
-<!--   {% bibliography -f preprints -q @*[year={{y}}]* %} -->
-<!-- {% endfor %} -->
-
-<!-- </div> -->
-
-
 ### **Publications**
 <!-- _pages/publications.md -->
 <div class="publications">
