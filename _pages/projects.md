@@ -20,6 +20,8 @@ Check out the interactive Worldwide Methane Emissions dashboard, built around da
 
 **Relevant publications:** [East et al. 2025 *Nat. Comm.*](https://doi.org/10.1038/s41467-025-67122-8), [East et al. 2024 *Geophys. Res. Lett.*](https://doi.org/10.1029/2024GL108494)
 
+Media: ["Venezuela's crumbling oil infrastructure makes it top polluter" (Marketplace Morning Report)](https://www.marketplace.org/story/2026/01/21/venezuelas-crumbling-oil-infrastructure-makes-it-top-polluter#venezuelas-crumbling-oil-infrastructure-makes-it-top-polluter), ["Satellite Images Reveal Venezuela’s Massive Methane Problem" (Bloomberg Green)](https://www.bloomberg.com/news/articles/2026-01-09/venezuela-s-massive-methane-problem-revealed-in-satellite-images?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2Nzk2MjI2MywiZXhwIjoxNzY4NTY3MDYzLCJhcnRpY2xlSWQiOiJUOExGV0ZLSVAzSkowMCIsImJjb25uZWN0SWQiOiI3NzU3NkQ1MUM2RTc0Q0VBQkEzMUFGRDAzQ0JBNDZBRiJ9._50yW9HcSwd0Ai-KZlDFzssFOfPBASdQ_5SLjzSVb54), ["New Tool Lets Anyone Audit a Country's Methane Claims" (Harvard Climate Blog)](https://salatainstitute.harvard.edu/anyone-can-audit-methane-with-this-harvard-tool/), ["Research Brief: Worldwide National Methane Emissions" (Harvard Salata Institute)](https://salatainstitute.harvard.edu/research-brief-worldwide-national-methane-emissions/)
+
 
 
 # **Climate impacts on air quality**

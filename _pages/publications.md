@@ -9,24 +9,25 @@ years2: [2020, 2019] #[1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
 ---
-*Updated December 2025*  
+*Updated February 2026*  
 [Google Scholar profile](https://scholar.google.com/citations?user=L1NLrxoAAAAJ)
 
+\* = *submitted*
 
 
-### **Submitted**
+<!-- ### **Submitted** -->
 <!-- _pages/publications.md -->
-<div class="publications">
+<!-- <div class="publications"> -->
 
-{%- for y in page.years0 %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f preprints -q @*[year={{y}}]* %}
-{% endfor %}
+<!-- {%- for y in page.years0 %}
+<!--   <h2 class="year">{{y}}</h2> -->
+<!--   {% bibliography -f preprints -q @*[year={{y}}]* %} -->
+<!-- {% endfor %} -->
 
-</div>
+<!-- </div> -->
 
 
-### **Peer-reviewed**
+### **Publications**
 <!-- _pages/publications.md -->
 <div class="publications">
 
