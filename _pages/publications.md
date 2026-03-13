@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description:  # [Google Scholar profile](https://scholar.google.com/citations?user=L1NLrxoAAAAJ)
 years0: [2025,]
-years1: [2025, 2024, 2022, 2021] #[1967, 1956, 1950, 1935, 1905]
+years1: [2026, 2025, 2024, 2022, 2021] #[1967, 1956, 1950, 1935, 1905]
 years2: [2020, 2019] #[1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
