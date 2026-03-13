@@ -7,7 +7,7 @@ subtitle: Research Associate at Harvard University
 
 profile:
   align: right
-  image: harvard_headshot_square.JPG # prof_pic.jpg
+  image: harvard_headshot_square2.JPG # prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address:  #>
     #<p>Pierce Hall</p>
