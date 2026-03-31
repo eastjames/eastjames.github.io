@@ -26,7 +26,7 @@ Media: ["Venezuela's crumbling oil infrastructure makes it top polluter" (Market
 
 # **Climate impacts on air quality**
 
-<div class="row justify-content-sm-left"> <div class="col-sm-10 mt-3 mt-md-0"> {% include figure.html path="assets/pdf/fig4.pdf" title="Future ozone pollution" class="img-fluid" %} </div></div>
+<div class="row justify-content-sm-left"> <div class="col-sm-10 mt-3 mt-md-0"> {% include figure.html path="assets/img/climate_ozone.png" title="Future ozone pollution" class="img-fluid" %} </div></div>
 *Figure: East et al., 2024, Earth's Future, Figure 4*  
 
 Climate change is projected to influence future surface-level air quality by changing concentrations of PM<sub>2.5</sub> and O<sub>3</sub> (ozone), two air pollutants that are harmful to human health. However, the magnitude and even the sign of that impact are uncertain. In my research, I use a model that couples economic drivers of GHG emissions, climate, and 3-D atmospheric chemistry to project climate's impact on air quality under multiple potential scenarios. My research quantifies the uncertainty in these projections and attributes it among known uncertainties in climate projections (GHG emissions scenario, natural variability, and climate model response uncertainty). I also examine the projected influence of climate on extreme O<sub>3</sub> pollution events, and find that moderate levels of climate change could bring 8.5 million U.S. residents into non-compliance with existing air quality standards by 2050.
@@ -39,7 +39,7 @@ Media: ["Ozone: An unseen health threat makes a comeback with climate change" (A
 
 
 # **Satellite chemical data assimilation**
-<div class="row justify-content-sm-left"> <div class="col-sm-10 mt-3 mt-md-0"> {% include figure.html path="assets/pdf/East2022ACPfig1.pdf" title="Chemical data assimilation and NOx emissions inversion framework" class="img-fluid" %} </div></div>
+<div class="row justify-content-sm-left"> <div class="col-sm-10 mt-3 mt-md-0"> {% include figure.html path="assets/img/East2022ACPfig1.png" title="Chemical data assimilation and NOx emissions inversion framework" class="img-fluid" %} </div></div>
 *East et al., 2022, ACP, Figure 1*  
 
 I developed and applied an inverse modeling framework that uses satellite observations of NO<sub>2</sub>, an air pollutant that can be viewed from space using sunlight reflected off Earth's surface, to estimate emissions of NO<sub>X</sub>, a related air pollutant. The framework uses 3D-variational satellite chemical data assimilation to update model simulations of air pollution to match observations. This is commonly used in weather forecasting to help models better match the real world; here, I'm applying it to atmospheric chemistry! I used the framework to estimate 2019 NO<sub>X</sub> emissions from around the Northern Hemisphere, and found that my emissions estimates help the model better reproduce concentrations of NO<sub>2</sub> and O<sub>3</sub> observed in the real world.
